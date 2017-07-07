@@ -1,2 +1,2 @@
 # PerfectPractice
-# By Kiran Manjrekar
+# By Kiran Manjrekar and Priya Dalvi
